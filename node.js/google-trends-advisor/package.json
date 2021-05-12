@@ -1,0 +1,24 @@
+{
+  "name": "google-trends-advisor",
+  "version": "0.0.1",
+  "description": "a small script which checks the activity on google-trends and displays the sell or buy contract depending on it's own advice (only for testing purpose, please do not use this script!)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omokuio/api-service-demo.git"
+  },
+  "author": "Jeremias Ehnle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omokuio/api-service-demo/issues"
+  },
+  "homepage": "https://github.com/Omokuio/api-service-demo#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "google-trends-api": "^4.9.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
