@@ -28,3 +28,11 @@ Afterwards you can simply run `npm start` to run the example.
 You will find the available examples in the folder `./node.js`.
 
 * **google-trends-advisor**: a small script which checks the activity on google-trends and displays the sell or buy contract depending on it's own advice _(only for testing purpose, please do not use this script!)_
+
+### HTML - any-crypto-direct
+
+This example shows the simply integration of the terminl api into your product. We've created a small example website that lets you directly buy cryptocurrencies.
+
+To view this example simply open the `index.html` file in your favourite browser. To view the source-code instead, just use your favourite editor software to open the file.
+
+You will find the available examples in the folder `./html/any-crypto-direct`.
