@@ -36,3 +36,9 @@ This example shows the simply integration of the terminl api into your product. 
 To view this example simply open the `index.html` file in your favourite browser. To view the source-code instead, just use your favourite editor software to open the file.
 
 You will find the available examples in the folder `./html/any-crypto-direct`.
+
+### Node.js - user-card
+
+This example shows the simply integration of the merchant api into your product. We've created a small example application that lets you display your account information in a beautiful interface.
+
+You will find the available examples in the folder `./node.js/user-card`.
