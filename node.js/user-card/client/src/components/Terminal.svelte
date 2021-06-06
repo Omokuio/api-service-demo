@@ -44,7 +44,7 @@
 
         {#if applicationId && ssoToken}
           <iframe 
-            src={`https://buy-dev.omoku.io/?application=${encodeURIComponent (applicationId)}&token=${encodeURIComponent (ssoToken)}`}
+            src={`https://buy.omoku.io/?application=${encodeURIComponent (applicationId)}&token=${encodeURIComponent (ssoToken)}`}
             title="Authorize our app"
             class="shadow-md"
           ></iframe>
