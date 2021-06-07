@@ -30,7 +30,7 @@ router.get(
   async (req, res) => {
     const ssoToken = req.ssoToken;
 
-    res.status(201).json({
+    res.status(200).json({
       id: ssoToken.id,
       applicationId: ssoToken.applicationId,
       token: ssoToken.token,
