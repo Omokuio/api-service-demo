@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="21px" viewBox="0 0 70 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal">
+        <text id="anycrypto" font-family="Ubuntu-Regular, Ubuntu" font-size="12" letter-spacing="-0.36" fill="#000000">
+            <tspan x="3" y="15">anycrypto</tspan>
+        </text>
+        <text id="direct" font-family="Ubuntu-Light, Ubuntu Light" font-size="5" letter-spacing="-0.15" fill="#000000">
+            <tspan x="54" y="8">direct</tspan>
+        </text>
+    </g>
+</svg>
